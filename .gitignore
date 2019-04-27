@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+newgame/.vs/newgame/v15/.suo
+newgame/x64/Debug/newgame.tlog/CL.command.1.tlog
+newgame/x64/Debug/newgame.tlog/CL.read.1.tlog
+newgame/x64/Debug/Log.txt
+newgame/x64/Debug/newgame.Build.CppClean.log
+newgame/x64/
+newgame/Log.txt
+newgame/.vs/newgame/v15/
+newgame/.vs/newgame/v14/.suo
+Dxlib_h/
